@@ -1,0 +1,7 @@
+echo "# PPB_Dava_Ardana_V_A_2211104048_SE06-1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/davaardana/PPB_Dava_Ardana_V_A_2211104048_SE06-1.git
+git push -u origin main
